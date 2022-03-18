@@ -4,7 +4,7 @@ This is my unique greeting application in Go.
 
 > Instructions are provided for PowerShell as Admin. 
 
-:ex  To get some runes to show, change settings in PS As Admin / Font / Simsun-ExtB.
+❗  To get some runes to show, change settings in PS As Admin / Font / Simsun-ExtB.
 
 ## Prerequisties
 
