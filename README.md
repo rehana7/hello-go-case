@@ -11,12 +11,14 @@ Install Go.
 To compile and run locally: 
 
 ```PowerShell
-
 go build hello.go
 .\hello.go
 ```
 
-## Go Code
+OR just run the file: `go run hello.go`
+
+
+## Go Code Organization
 
 In general, a GitHub repo would host a Go module.
 
