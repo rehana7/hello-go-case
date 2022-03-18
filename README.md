@@ -39,7 +39,7 @@ Then add and test your go code.
 ## To install this app locally
 
 ```PowerShell
-go install https://github.com/denisecase/hello-go-case
+go install github.com/denisecase/hello-go-case
 ```
 
 
