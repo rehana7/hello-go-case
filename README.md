@@ -36,7 +36,7 @@ go mod init github.com/denisecase/hello-go-case
 
 Then add and test your go code. 
 
-## To download and install this app locally
+## To download, (compile and) install this app locally
 
 ```PowerShell
 go get -u github.com/denisecase/hello-go-case@latest
