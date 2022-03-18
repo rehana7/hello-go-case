@@ -42,5 +42,5 @@ Then add and test your go code.
 go get -u github.com/denisecase/hello-go-case@latest
 ```
 
-
+Remember to include the @latest - a version is needed. 
 
