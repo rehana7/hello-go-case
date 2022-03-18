@@ -28,7 +28,7 @@ Have one default main() function that will execute when installed.
 
 ## To Create A Similar App
 
-Initialize a Go module first:
+Initialize a Go module first - be sure to use your GitHub account and repo name.
 
 ```PowerShell
 go mod init github.com/denisecase/hello-go-case
