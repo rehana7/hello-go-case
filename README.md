@@ -26,9 +26,21 @@ A package is a folder that has one or more files.
 
 Have one default main() function that will execute when installed. 
 
-# To Create This, Initize a Go Module First
+## To Create A Similar App
+
+Initialize a Go module first:
 
 ```PowerShell
 go mod init github.com/denisecase/hello-go-case
 ```
+
+Then add and test your go code. 
+
+## To install this app locally
+
+```PowerShell
+go install https://github.com/denisecase/hello-go-case
+```
+
+
 
